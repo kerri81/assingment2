@@ -81,13 +81,13 @@ img{
     padding: 20px 0;
 }
 
-.about a{
+a.about{
     color:#F285b8;
     text-decoration:none;
     margin-left:40%;
 }
 
-.about a:hover{
+a:hover.about{
     color: #D94188;
     background-color:#F285b8;
 }
